@@ -15,8 +15,5 @@
 2. Importar o arquivo .mp3 ou .mp4;
 3. Aguardar a transcrição ser concluída e disponibilizada na página.
 
-### Tempo de desenvolvimento
-1 dia de trabalho
-
 ### Desenvolvedores
 1. Rodrigo Mendes Vasconcelos
